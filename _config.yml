@@ -1,14 +1,26 @@
-layout_spectrum: 0.8136201
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.6523297
 color:
   saturation: 1
-  brandStrength: 0.8584229
+  brandStrength: 0.8494624
   lightness: 1
   brandColors:
-    - '#0D0E13'
-    - '#89877F'
-    - '#925339'
-    - '#C6B5A2'
-    - '#393227'
+    - '#0E0E0E'
+    - '#4D4A41'
+    - '#A49B87'
+    - '#A32830'
+    - '#A36642'
   rhythmicContrast: 1
-typography_spectrum: 0.6523297
+layout_spectrum: 0.8530466
 name: AGMllc
