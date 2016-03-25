@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[American Group Management, LLC]]></title>
+        <description><![CDATA[American Group Management, LLC]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 25 Mar 2016 06:40:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[american group management, llc]]></title>
+            <description><![CDATA[<article><h1>american group management, llc</h1><p>american group management, llc represents broadcasters, olympic and paralympic athletes from Canada, Switzerland and the United States. </p></article>]]></description>
+            <link>undefinedamerican-group-management-llc/index.html</link>
+            <guid isPermaLink="false">beb70838-43cc-468e-a9da-e3ba90588e92</guid>
+            <pubDate>Fri, 25 Mar 2016 06:40:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
