@@ -1,7 +1,7 @@
 name: AGMllc
 favicon: null
 layout_spectrum: 0.76238
-typography_spectrum: 0.77723
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -31,9 +31,9 @@ color:
   brandColors:
     - '#ffffff'
     - '#005b8a'
-    - '#930117'
-    - '#060706'
-    - '#f67b7b'
+    - '#930216'
+    - '#0a0a0a'
+    - '#a6a6a6'
   brandStrength: 0.8494624
   lightness: 1
   saturation: 1
